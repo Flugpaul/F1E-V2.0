@@ -1,9 +1,13 @@
-# F1E-V2.0
-Overview
+# F1E-V2.0 Overview
+
 Version 2.0 of the F1E control system is the logical further development of the previous version 0.9. Valuable suggestions from the pilots have been incorporated into a revised software and a new circuit board layout. 
+
 Features
+
 •	Control of a directional servo via the earth's magnetic field.
+
 •	Directional control with the touch to a button.
+
 •	Head or tail rudder control possible (Servo reverse function/Jumper).
 •	Direction sensor and control unit can be installed separately.
 •	Very smart BNO055 direction sensor from Bosch/Adafruit.
